@@ -1,0 +1,17 @@
+{
+  "type": "deletion_receipt",
+  "agent": "Forgetful research sprite",
+  "present": [
+    "/notes/brief.md",
+    "/notes/scratch.md"
+  ],
+  "removed": [
+    "/notes/brief.md",
+    "/notes/scratch.md"
+  ],
+  "leftover_hash": "0x83aa3f78032e3880302048250c95bb559a47d20248bda425b6b969662c865936",
+  "timestamp": "2026-11-27T12:06:51+08:00",
+  "timezone": "Asia/Hong_Kong",
+  "claim": "Notes destroyed on request. Receipt only; the notes themselves were not filed.",
+  "notes": "Receipt only. The destroyed notes or job files are not stored here."
+}
